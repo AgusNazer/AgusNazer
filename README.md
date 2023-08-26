@@ -4,7 +4,7 @@
 
 ## Acerca de mí 👨‍💻
 
-<img src="https://user-images.githubusercontent.com/82724532/177223697-f5e3bacf-620d-423f-9569-5aa94e8af183.png" alt="girl01" style="max-width: 100%;">
+<img src="<a href='https://postimg.cc/wy6ZCn84' target='_blank'><img src='https://i.postimg.cc/wy6ZCn84/dev.jpg' border='0' alt='dev'/></a>" alt="girl01" style="max-width: 100%;">
 
 ¡Hola! Soy un desarrollador Fullstack con infinitas ganas de aprender tecnologias y herramientas nuevas.
 Me oriento mas al Frontend, por lo que me gusta decir que soy un desarrollador frontend pero tambien con conocimientos de backend 😉. Descubri que puedo colaborar en la resolución de problemas reales y brindar soluciones prácticas y creativas a través del código.
