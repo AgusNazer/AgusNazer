@@ -18,7 +18,7 @@ He trabajado con diversas tecnologías, y algunas de las que utilizo a diario so
 <a href="https://redux.js.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/bdc7538096526da40b0e1e252cb5c790b07b8320b222708c708927d531a6206f/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f522f72656475782d6c6f676f2d394341363833364331322d7365656b6c6f676f2e636f6d2e706e67" alt="redux" width="40" height="40" data-canonical-src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" style="max-width: 100%;"> </a>
 
 
-<a href="https://flutter.dev/" rel="nofollow"> <img src="" alt="flutter" width="40" height="40" data-canonical-src="![image](https://github.com/AgusNazer/AgusNazer/assets/106754820/54ad696d-2e0f-4f4f-966d-e2b7f8d739ef)
+<a href="https://flutter.dev/" rel="nofollow"> <img src="file:///Users/agustinnazer/Downloads/4691465_flutter_icon.svg" alt="flutter" width="40" height="40" data-canonical-src="![image](https://github.com/AgusNazer/AgusNazer/assets/106754820/54ad696d-2e0f-4f4f-966d-e2b7f8d739ef)
 " style="max-width: 100%;"> </a>
 
 
