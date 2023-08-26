@@ -5,8 +5,7 @@
 ## Acerca de mí 👨‍💻
 
 ¡Hola! Soy un desarrollador fullstack con infinitas ganas de aprender tecnologias y herramientas nuevas.
-Me oriento mas al Frontend, por lo que me gusta decir que soy un desarrollador frontend pero tambien con conocimientos de backen ;) 
-Descubri que puedo colaborar en la resolución de problemas reales y brindar soluciones prácticas y creativas a través del código.
+Me oriento mas al Frontend, por lo que me gusta decir que soy un desarrollador frontend pero tambien con conocimientos de backen 😉. Descubri que puedo colaborar en la resolución de problemas reales y brindar soluciones prácticas y creativas a través del código.
 
 ## Tecnologías que suelo utilizar 🚀
 He trabajado con diversas tecnologías, y algunas de las que utilizo a diario son:
