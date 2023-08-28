@@ -39,7 +39,7 @@ Si deseas contactarme para colaborar en proyectos, compartir ideas o simplemente
 ## ¡Hablemos! 📫 
 Correo electrónico: Agustin.nazer@hotmail.com 
 
-LinkedIn:https://www.linkedin.com/in/agust%C3%ADnnazer 
+LinkedIn:https://www.linkedin.com/in/agustinnazer
 
 GitHub: https://github.com/AgusNazer 
 
