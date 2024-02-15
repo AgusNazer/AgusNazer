@@ -7,7 +7,7 @@
 <a href='https://postimg.cc/wy6ZCn84' target='_blank'><img src='https://i.postimg.cc/wy6ZCn84/dev.jpg' border='0' alt='dev'/></a>
 
 ¡Hola! Soy un desarrollador Fullstack con infinitas ganas de aprender tecnologias y herramientas nuevas.
-Me oriento mas al Frontend, por lo que me gusta decir que soy un desarrollador frontend pero tambien con conocimientos de backend 😉. Descubri que puedo colaborar en la resolución de problemas reales y brindar soluciones prácticas y creativas a través del código.
+Me oriento mas al Backend, pero tambien puedo sentirme comodo en el frontend. Descubri que puedo colaborar en la resolución de problemas reales y brindar soluciones prácticas y creativas a través del código.
 
 ## Tecnologías que suelo utilizar 🚀
 He trabajado con diversas tecnologías, y algunas de las que utilizo a diario son:
