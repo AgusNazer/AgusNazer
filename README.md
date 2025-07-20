@@ -6,8 +6,9 @@
 
 <a href='https://postimg.cc/wy6ZCn84' target='_blank'><img src='https://i.postimg.cc/wy6ZCn84/dev.jpg' border='0' alt='dev'/></a>
 
-Hi there! I'm a software developer with a passion for building solutions that make a real difference in our technologically world. Right now, I'm part of a team working on a project about energy tokenization, with the power of blockchain technology. 
-I like researching and learning about new topics, and that is why I have recently delved into the world of web3.
+Hi there! I'm a software developer with a passion for building solutions that make a real difference in our technological world. I have experience working on blockchain-based projects. I'm currently studying at the National Technological University, which has helped me develop critical thinking skills and a solid understanding not only of technical concepts but also of business logic.
+
+I'm a software developer with a stronger focus on backend development, and I have experience working with Java, Node.js, and .NET
 
 
 ## Collaboration and Projects 🤝
