@@ -3,7 +3,6 @@
 Backend Developer · Java · IA · Automatizaciones
 Mar del Plata, Argentina
 
-> "Built to build.
 
 🌐 [anuarnazer.com](https://anuarnazer.com)
 
