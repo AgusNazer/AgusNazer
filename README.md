@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Agustín Nazer
 
 Backend Developer · Java · IA · Automatizaciones
-Mar del Plata, Argentina
+
 
 
 🌐 [anuarnazer.com](https://anuarnazer.com)
