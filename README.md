@@ -24,3 +24,4 @@ Software Developer · Java · Python · IA · Automatizaciones
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=flat&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
