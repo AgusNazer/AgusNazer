@@ -22,3 +22,5 @@ Software Developer · Java · Python · IA · Automatizaciones
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=flat&logo=githubactions&logoColor=white)
