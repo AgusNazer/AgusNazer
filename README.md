@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Agustín Nazer
 
-Backend Developer · Java · IA · Automatizaciones
+Software Developer · Java · Python · IA · Automatizaciones
 
 
 
